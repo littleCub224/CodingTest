@@ -1,0 +1,22 @@
+# .cache 파일 무시
+**.cache
+
+# .vsidx 파일 무시
+**.vsidx
+<<<<<<< HEAD
+bin/
+.vs/
+obj/
+=======
+
+# .suo 파일 무시
+**.suo
+
+
+**.cache
+*.cache
+
+*.cache
+
+*.bak
+*.cache
